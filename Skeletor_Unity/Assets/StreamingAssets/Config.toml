@@ -1,0 +1,16 @@
+# Socket Config #
+UdpPort = 4242
+IpAdressWhitelist = [ "127.0.0.1" ]
+
+# Visualization #
+CharacterOriginPosition = [2.98000002,0.0700000003,-8.68000031]
+CharacterRotation = [0, -90, 0] # Rotation in euler angles
+CharacterInterpolationSmoothness = 0.05 # Higher smoother but less responsive. Do not increase past 1.
+CharacterSpawnDespawnParticlesCount = 2200 # High values might cause stuttering
+
+# Debug #
+PinCharacterToOriginPosition = false
+DrawDebugRig = true
+
+# Logging #
+LogReceivedUdpPackets = true
