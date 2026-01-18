@@ -1,2 +1,3 @@
-# temp
+# ODWZOROWYWANIE RUCHU POSTACI W CZASIE RZECZYWISTYM NA WIRTUALNE AWATARY
 
+Praca dyplomowa dotyczy projektowania i implementacji systemu wizualizacji animowanych postaci w czasie rzeczywistym, sterowanych ruchem użytkownika. W ramach pracy przeanalizowano istniejące rozwiązania z zakresu gier ruchowych, technologii wirtualnych awatarów oraz narzędzi przechwytywania ruchu, ze szczególnym uwzględnieniem warstwy wizualizacyjnej i animacji postaci. Na podstawie przeprowadzonej analizy zaprojektowano architekturę systemu oraz zaimplementowano kompletny program umożliwiający animację awatara w środowisku Unity Engine z wykorzystaniem danych o ruchu użytkownika. W pracy przedstawiono sposób integracji poszczególnych komponentów systemu.
